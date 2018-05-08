@@ -4,6 +4,5 @@
     {"id":2, "name":"ty","dept":23, "role": "guest"},
     {"id":3, "name":"joe","dept":18, "role": "user"},
     {"id":3, "name":"robert","dept":18, "role": "admin"}
-    
     ]
 }
